@@ -1,0 +1,71 @@
+/* value of top-footer-section  */
+#top-footer-section {
+    padding: 10px 0;
+    background-color: rgb(35, 47, 62);
+}
+
+#top-footer-section .top-footer-texts {
+    color: white;
+    font-size: 15px;
+}
+ /* list features of top-footer-section */
+#top-footer-section .top-footer-texts ul {
+    list-style: none;
+}
+
+#top-footer-section .top-footer-texts a {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+}
+
+#top-footer-section .top-footer-texts h3,
+ul li {
+    margin-bottom: 10px;
+}
+/* values of footer-middle-part */
+#footer-middle-part {
+    background-color: rgb(35, 47, 62);
+}
+
+#footer-middle-part .middle-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+/* footer-middle-part buttons */
+#footer-middle-part .middle-footer .footer-buttons button {
+    padding: 15px 20px;
+    border-radius: 15px;
+    background-color: rgb(35, 47, 62);
+    color: white;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+#footer-middle-part .middle-footer .footer-buttons {
+    margin: 20px 100px;
+}
+
+/* bottom-footer-section features */
+#bottom-footer-section {
+    background-color: #131A22;
+    padding: 30px 0;
+
+    color: white;
+    font-size: 12px
+}
+
+#bottom-footer-section .bottom-footer-texts-action {
+    margin-top: 20px;
+    padding: 0 30px;
+}
+ /* footer-bottom-end in footer-bottom-end id */
+#bottom-footer-section .footer-bottom-end {
+    padding: 40px 600px;
+}
+
+#bottom-footer-section .footer-bottom-end p {
+    text-align: center;
+}
